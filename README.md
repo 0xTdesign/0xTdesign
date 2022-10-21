@@ -10,22 +10,14 @@
 </p>
 
 
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://twitter.com/JDoy99"><img width="36px" alt="Twitter" title="Twitter" src="https://github.com/JDoy99/JDoy99/blob/main/icons/64px/003-twitter.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://t.me/JD0x2e"><img width="36px" alt="Telegram" title="Telegram" src="https://github.com/JDoy99/JDoy99/blob/main/icons/64px/001-telegram.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="discordapp.com/users/873984314650558524" alt="Discord"><img width="36px" src="https://github.com/JDoy99/JDoy99/blob/main/icons/64px/002-discord.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+
 
 <!-- Social badges section -->
 <!-- <p align="center">
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JDoy99?color=9A00FF&style=for-the-badge&labelColor=7d00cf&logo=star"/></a>
-  <a href="https://github.com/JDoy99?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/JDoy99?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/0xTdesign?color=9A00FF&style=for-the-badge&labelColor=7d00cf&logo=star"/></a>
+  <a href="https://github.com/0xTdesign?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/0xTdesign?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
