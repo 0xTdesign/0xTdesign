@@ -69,7 +69,7 @@ Follow me on my journey as I turn my life upside down, leaving everything I know
 
 <p align="center">
   <a href="v">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="JDoy99's streak" src="https://streak-stats.demolab.com?user=0xTdesign&theme=tokyonight_duo"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="0xTdesign streak" src="https://streak-stats.demolab.com?user=0xTdesign&theme=tokyonight_duo"/>
   </a>
 </p>
 
