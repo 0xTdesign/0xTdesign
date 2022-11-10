@@ -65,13 +65,13 @@ Follow me on my journey as I turn my life upside down, leaving everything I know
    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-## 🔥 Streak stats
+<!-- ## 🔥 Streak stats
 
 <p align="center">
   <a href="v">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="0xTdesign streak" src="https://streak-stats.demolab.com?user=0xTdesign&theme=tokyonight_duo"/>
   </a>
-</p>
+</p> -->
 
 ## 📊 Github stats
 
